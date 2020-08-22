@@ -1,2 +1,4 @@
-# Cluster_Analysis_with_Iris_Dataset
+# Cluster Analysis with Iris Dataset
 Unsupervised Machine Learning in R
+
+### This repo is for supporting docs for the medium article :
